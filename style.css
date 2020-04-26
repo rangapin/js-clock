@@ -10,7 +10,7 @@ body {
 }
 
 .main {
-    background-color: #2196f370;
+    background-color: white;
     width: 400px;
     height: 174px;
     margin: 100px auto;
@@ -30,8 +30,8 @@ body {
 }
 
 .clock {
-    background-color: #03a9f469;
-    box-shadow: inset 1px 1px 20px 5px cyan;
+    background-color:  lightsteelblue;
+    box-shadow: 0 0 14px 4px black;
     text-align: center;
     font-size: 44px;
     height: 100%;
